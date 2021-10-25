@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-25T14:51:42.431Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="Av7METeafrkiDLRihLa8" version="15.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-25T14:54:05.852Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="j0udDrP_XkGb_Ilwq0gx" version="15.2.7" type="github" pages="2">
   <diagram id="7S-zkjWdKcen9QKRVOOr" name="UML User Cases">
     <mxGraphModel dx="7770" dy="4360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -493,6 +493,9 @@
       <root>
         <mxCell id="EFeMOXJsEP3OU_5ekMnE-0" />
         <mxCell id="EFeMOXJsEP3OU_5ekMnE-1" parent="EFeMOXJsEP3OU_5ekMnE-0" />
+        <mxCell id="EFeMOXJsEP3OU_5ekMnE-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="EFeMOXJsEP3OU_5ekMnE-1" source="EFeMOXJsEP3OU_5ekMnE-2" target="EFeMOXJsEP3OU_5ekMnE-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EFeMOXJsEP3OU_5ekMnE-2" value="User" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="EFeMOXJsEP3OU_5ekMnE-1">
           <mxGeometry x="270" y="80" width="160" height="164" as="geometry" />
         </mxCell>
@@ -515,7 +518,7 @@
           <mxGeometry y="138" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="EFeMOXJsEP3OU_5ekMnE-10" value="Book" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="EFeMOXJsEP3OU_5ekMnE-1">
-          <mxGeometry x="600" y="80" width="160" height="190" as="geometry" />
+          <mxGeometry x="630" y="110" width="160" height="190" as="geometry" />
         </mxCell>
         <mxCell id="EFeMOXJsEP3OU_5ekMnE-11" value="+ : title: varchar (100)&#xa;  " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EFeMOXJsEP3OU_5ekMnE-10">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -537,6 +540,12 @@
         </mxCell>
         <mxCell id="EFeMOXJsEP3OU_5ekMnE-16" value="+ TBD" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EFeMOXJsEP3OU_5ekMnE-10">
           <mxGeometry y="164" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EFeMOXJsEP3OU_5ekMnE-19" value="0 ... *" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EFeMOXJsEP3OU_5ekMnE-1">
+          <mxGeometry x="590" y="180" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EFeMOXJsEP3OU_5ekMnE-20" value="1 ... 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EFeMOXJsEP3OU_5ekMnE-1">
+          <mxGeometry x="430" y="142" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
