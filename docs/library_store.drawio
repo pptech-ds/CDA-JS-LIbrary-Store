@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T08:09:17.513Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="Ks_giMzHkl6Hf00PJcA8" version="15.5.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-26T08:28:34.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="EMqzQ_9nPt9ZPaFXIk3a" version="15.5.9" type="github" pages="2">
   <diagram id="7S-zkjWdKcen9QKRVOOr" name="UML User Cases">
     <mxGraphModel dx="6040" dy="3835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -502,13 +502,13 @@
         <mxCell id="NsfZw8cOpHAZoNL8Lds9-8" value="+ : id: int&#xa;  " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EFeMOXJsEP3OU_5ekMnE-2" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="EFeMOXJsEP3OU_5ekMnE-3" value="+ : firstname: varchar (50)&#xa;  " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EFeMOXJsEP3OU_5ekMnE-2" vertex="1">
+        <mxCell id="EFeMOXJsEP3OU_5ekMnE-3" value="+ : firstname: string&#xa;  " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EFeMOXJsEP3OU_5ekMnE-2" vertex="1">
           <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="EFeMOXJsEP3OU_5ekMnE-6" value="+ : lastname: varchar (50)  " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EFeMOXJsEP3OU_5ekMnE-2" vertex="1">
+        <mxCell id="EFeMOXJsEP3OU_5ekMnE-6" value="+ : lastname: string " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EFeMOXJsEP3OU_5ekMnE-2" vertex="1">
           <mxGeometry y="78" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="EFeMOXJsEP3OU_5ekMnE-7" value="+ : email: varchar (50)  " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EFeMOXJsEP3OU_5ekMnE-2" vertex="1">
+        <mxCell id="EFeMOXJsEP3OU_5ekMnE-7" value="+ : email: string  " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EFeMOXJsEP3OU_5ekMnE-2" vertex="1">
           <mxGeometry y="104" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="EFeMOXJsEP3OU_5ekMnE-8" value="+ : isVerified: bool  " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EFeMOXJsEP3OU_5ekMnE-2" vertex="1">
