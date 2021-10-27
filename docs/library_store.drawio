@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-27T12:48:02.318Z" agent="5.0 (Windows)" etag="-a-xGZZD_DzGKDhweGvf" version="15.5.9" type="github" pages="6">
-  <diagram id="7S-zkjWdKcen9QKRVOOr" name="UML User Cases Full">
-    <mxGraphModel dx="1718" dy="1540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2021-10-27T12:50:43.133Z" agent="5.0 (Windows)" etag="B5odWUddfGwG91lW51Je" version="15.5.9" type="github" pages="6">
+  <diagram id="7S-zkjWdKcen9QKRVOOr" name="UML Use Cases Full">
+    <mxGraphModel dx="2147" dy="1540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -517,7 +517,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="UML User Cases Rent" id="W6NxJUmy6uo9g3zQElOM">
+  <diagram name="UML Use Cases Rent" id="W6NxJUmy6uo9g3zQElOM">
     <mxGraphModel dx="4556" dy="2357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="RaWdWEmhi5QUENWdYcp_-0" />
@@ -944,7 +944,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of UML User Cases Rent" id="SaQh0ZzgilrT_KfBNxFI">
+  <diagram name="Copy of UML Use Cases Rent" id="SaQh0ZzgilrT_KfBNxFI">
     <mxGraphModel dx="2147" dy="1540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="T06T5fpWgnhj3CMw_iUQ-0" />
@@ -1802,7 +1802,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kCGg42tu3GjfAFrO9U_P" name="UML diagram Sequence">
-    <mxGraphModel dx="868" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1297" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="tzai7RXz34_otveSpSVF-0" />
         <mxCell id="tzai7RXz34_otveSpSVF-1" parent="tzai7RXz34_otveSpSVF-0" />
