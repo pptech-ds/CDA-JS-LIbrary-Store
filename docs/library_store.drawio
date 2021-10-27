@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-27T09:37:35.703Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="MYDrEOxbJwUT1M7ugyax" version="14.9.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-10-27T09:40:30.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="Tq6DkEy2XqCPouN0ZXxM" version="14.9.3" type="github" pages="6">
   <diagram id="7S-zkjWdKcen9QKRVOOr" name="UML User Cases Full">
     <mxGraphModel dx="5590" dy="3640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1173,7 +1173,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TxvzlHGIK0thRguniy4z" name="UML Class Diagram">
-    <mxGraphModel dx="981" dy="1626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="EFeMOXJsEP3OU_5ekMnE-0" />
         <mxCell id="EFeMOXJsEP3OU_5ekMnE-1" parent="EFeMOXJsEP3OU_5ekMnE-0" />
@@ -1629,6 +1629,14 @@
         <mxCell id="baOakrjXjvunt6lVugIs-0" value="isRentalAllowed(user User, maxBooksAllowed int)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="tzai7RXz34_otveSpSVF-1">
           <mxGeometry x="460" y="274" width="345" height="26" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="kOX_ed4GOrAQxF8LMD-E" name="MPD">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="3IMIiUb_W7eF6DlipVKS-0" />
+        <mxCell id="3IMIiUb_W7eF6DlipVKS-1" parent="3IMIiUb_W7eF6DlipVKS-0" />
       </root>
     </mxGraphModel>
   </diagram>
